@@ -1,0 +1,11 @@
+Category,Text,Expected,Predicted,Probability
+Normal,I am extremely happy today,joy,joy,0.8237330160463621
+Normal,I feel completely alone and miserable,sadness,sadness,0.9952376210778121
+Negation,I am not happy,sadness,joy,0.9622452864428066
+Negation,I am not afraid anymore,joy,fear,0.9666017946362645
+Spelling Error,I am hapy today,,sadness,0.44028280514492407
+Spelling Error,I feel terified,,joy,0.5522258305187774
+Mixed Emotion,I am happy but nervous about tomorrow,,fear,0.9621177054984473
+Mixed Emotion,I love my family but I miss them,,joy,0.48037940978914423
+Short Text,Terrible!,anger,sadness,0.9910579788296505
+Short Text,Wonderful!,joy,joy,0.992286954479761

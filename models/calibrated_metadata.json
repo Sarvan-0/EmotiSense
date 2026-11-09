@@ -1,0 +1,8 @@
+{
+    "model": "Calibrated Linear SVM",
+    "accuracy": 0.9043,
+    "macro_f1": 0.8687,
+    "weighted_f1": 0.9,
+    "log_loss": 0.2835,
+    "calibration": "sigmoid"
+}

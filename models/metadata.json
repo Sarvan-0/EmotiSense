@@ -1,0 +1,16 @@
+{
+    "model": "Linear SVM",
+    "accuracy": 0.8980552070263488,
+    "macro_f1": 0.8661568987328847,
+    "weighted_f1": 0.8993375641260405,
+    "cross_validation_macro_f1": 0.8607936038600121,
+    "best_parameters": {
+        "classifier__C": 0.5,
+        "tfidf__max_features": 10000,
+        "tfidf__min_df": 2,
+        "tfidf__ngram_range": [
+            1,
+            1
+        ]
+    }
+}
